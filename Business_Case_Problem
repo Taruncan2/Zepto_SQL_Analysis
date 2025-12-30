@@ -1,0 +1,13 @@
+Zepto, a fast-growing online grocery platform, needs better visibility into its product pricing, discounts, and inventory performance to support strategic decision-making. The company faces challenges in identifying high-value discount products, managing out-of-stock premium items, optimizing inventory distribution by category, and estimating potential revenue impact.
+
+Using transactional product data, this project aims to build a structured analytical system to help Zepto answer critical business questions such as:
+
+Which products provide the best customer value based on discounts?
+
+Which high-priced items are frequently unavailable, potentially leading to lost revenue?
+
+Which categories contribute the most to overall revenue and inventory weight?
+
+How can pricing efficiency be improved using unit-based analysis?
+
+By applying SQL-driven exploration, cleaning, and analysis, this project transforms raw data into actionable insights that support smarter pricing strategies, improved inventory planning, and enhanced customer experience.
